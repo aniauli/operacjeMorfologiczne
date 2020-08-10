@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>obrazBitowy.png</file>
+    </qresource>
+</RCC>
